@@ -27,7 +27,7 @@ How to change the database?
 >   "DB_PORT":"3306",
 >   "DB_USER":"alist",
 >   "DB_PASS":"password",
->   "DB_NAME":"alist",
+>   "DB_NAME":"blist",
 >   "DB_TABLE_PREFIX":"alist_",
 >   "DB_SSL_MODE":"true"
 > }
